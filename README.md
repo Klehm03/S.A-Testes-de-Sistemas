@@ -18,3 +18,5 @@ como dados_senai.csv, dados_isaque.csv, etc.), simulando resultados de diferente
  --
 Para que Serve:
 O objetivo principal é monitorar e visualizar a performance de carregamento da Amazon de diferentes pontos, ajudando a identificar variações ou problemas de latência ao longo do tempo e em diversas localidades.
+
+ --
